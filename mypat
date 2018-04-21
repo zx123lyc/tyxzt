@@ -1,0 +1,12 @@
+diff --git a/a.php b/a.php
+index 71f70c7..f34bef9 100644
+--- a/a.php
++++ b/a.php
+@@ -3,4 +3,6 @@
+   echo "happy new year111";
+   echo "master tyxzt";
+   echo "tyxzt";
++
++  echo "shezhi le buding";
+ ?>
+\ No newline at end of file
