@@ -1,4 +1,4 @@
 ﻿<?php
-  echo "i am admin
+  echo "222i am admin
   echo "new admin"
 ?>
